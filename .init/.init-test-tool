@@ -1,0 +1,4 @@
+{
+    "command": "pytest",
+    "working_directory": "/tmp/kavia/workspace/code-generation/online-tic-tac-toe-platform-37274d06/tic_tac_toe_backend"
+}
